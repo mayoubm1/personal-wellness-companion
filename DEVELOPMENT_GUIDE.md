@@ -50,7 +50,7 @@ This guide integrates the phased development approach with your existing advance
 
 ### Implementation Steps:
 1. **File Browser**
-   ```python
+   \`\`\`python
    def browse_files(directory=None):
        # Safe file listing with permissions check
        # Integration with existing file management system
